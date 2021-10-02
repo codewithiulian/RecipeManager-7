@@ -1,0 +1,78 @@
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

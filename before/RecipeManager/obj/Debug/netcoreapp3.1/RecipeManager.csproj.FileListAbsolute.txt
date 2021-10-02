@@ -1,0 +1,588 @@
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.exe
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.deps.json
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.json
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.dev.json
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.AssemblyReference.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfoInputs.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfo.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CoreCompileInputs.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.input.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.output.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\RecipeManager.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.input.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.output.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorCoreGenerate.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.Manifest.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.xml
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\RecipeManager.styles.css
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cs
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.genruntimeconfig.cache
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CopyComplete
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\2. Entity Framework\Project\before\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.exe
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.deps.json
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.json
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.dev.json
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.AssemblyReference.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfoInputs.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfo.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CoreCompileInputs.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.input.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\RecipesList.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.output.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\RecipeManager.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.input.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.output.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorCoreGenerate.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\RecipesList.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.Manifest.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.xml
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\RecipeManager.styles.css
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cache
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cs
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CopyComplete
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\YouTube\3. RecipeManager-2\Project\before\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.genruntimeconfig.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.exe
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.deps.json
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.json
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.dev.json
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.AssemblyReference.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfoInputs.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfo.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CoreCompileInputs.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.input.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.output.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\RecipeManager.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.input.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.output.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorCoreGenerate.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.Manifest.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.xml
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\RecipeManager.styles.css
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CopyComplete
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.genruntimeconfig.cache
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Recipe\RecipesList.razor.g.cs
+D:\Projects\YouTube\Content\4. RecipeManager-3\Project\after\RecipeManager-tut4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Recipe\RecipesList.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.exe
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.deps.json
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.json
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.dev.json
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.AssemblyReference.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfoInputs.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfo.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CoreCompileInputs.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.input.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Recipe\RecipeDetails.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Recipe\RecipesList.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.output.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\RecipeManager.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.input.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.output.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorCoreGenerate.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Recipe\RecipeDetails.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Recipe\RecipesList.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.Manifest.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.xml
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\RecipeManager.styles.css
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cache
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cs
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CopyComplete
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\YouTube\Content\5. RecipeManager-4\Project\tutorial\RecipeManager-4\RecipeManager\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.genruntimeconfig.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.exe
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.deps.json
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.json
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.dev.json
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.AssemblyReference.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfoInputs.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfo.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CoreCompileInputs.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.input.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Recipe\RecipeDetails.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Recipe\RecipesList.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.output.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\RecipeManager.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.input.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.output.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorCoreGenerate.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Recipe\RecipeDetails.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Recipe\RecipesList.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.Manifest.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.xml
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\RecipeManager.styles.css
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cs
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CopyComplete
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.genruntimeconfig.cache
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.StaticWebAssets.xml
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\Code with Julian\Contents\2021\37.1. RecipeManager-5\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.StaticWebAssets.xml
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.exe
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.deps.json
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.json
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.runtimeconfig.dev.json
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.AssemblyReference.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfoInputs.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.AssemblyInfo.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CoreCompileInputs.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.input.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Recipe\RecipeDetails.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Recipe\RecipesList.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorComponent.output.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RazorDeclaration\RecipeManager.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.input.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.TagHelpers.output.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorCoreGenerate.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Recipe\RecipeDetails.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Recipe\RecipesList.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorAssemblyInfo.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.Manifest.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\staticwebassets\RecipeManager.StaticWebAssets.xml
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\RecipeManager.styles.css
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cache
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.RazorTargetAssemblyInfo.cs
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.Views.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.csproj.CopyComplete
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.dll
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.pdb
+D:\Projects\Code with Julian\2021\38. RecipeManager-6\Project\tutorial\RecipeManager-3\RecipeManager\obj\Debug\netcoreapp3.1\RecipeManager.genruntimeconfig.cache
